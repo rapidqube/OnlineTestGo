@@ -12,7 +12,7 @@
 
  => Deployment process to run application:-
  
-  1)git clone <repository-url>
+  1)git clone https://github.com/rapidqube/OnlineTestGo.git
   
   2)cd (folder name)
   
