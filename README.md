@@ -1,5 +1,26 @@
 "# OnlineTestGo" 
 
+ => Technology used:- golang
+ 
+ => Prerequisite:-
+ 
+  1)git 
+  
+  2)golang
+  
+  3)MySql
+
+ => deployment process to run application:-
+ 
+  1)git clone <repository-url> 
+  
+  2)cd folder name
+  
+  3)go run (file name)
+
+  Description of project:-
+  
+  The purpose of the system is to develop Online Examination System., used to test the Domain knowledge of the students, and employees with respect to the particular technology. The manual procedure used for conducting exam is time consuming process and error prone due to human limitations. The System purpose is to completely automate the old manual procedure of conducting exam to Online Web Based Examination System.
 
 run following command to after cloning
 
@@ -28,3 +49,5 @@ payload :
   "email":"somone@something.com",
   "test":"Java"
 }
+
+
