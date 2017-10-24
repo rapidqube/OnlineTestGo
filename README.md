@@ -12,9 +12,9 @@
 
  => Deployment process to run application:-
  
-  1)git clone <repository-url> 
+  1)git clone <repository-url>
   
-  2)cd folder name
+  2)cd (folder name)
   
   3)go run (file name)
 
